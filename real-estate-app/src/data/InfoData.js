@@ -4,9 +4,9 @@ import ImageTwo from "../images/interior-2.jpg";
 export const InfoData = {
   heading: "Explore our beautiful homes.",
   paragraphOne:
-    "Lorem Cupidatat velit labore ullamco sunt sint non. Nostrud et dolore laboris labore velit est pariatur dolor nulla. Elit dolore quis mollit aute ex duis veniam mollit elit in consequat minim. Nostrud irure in cupidatat laborum. Excepteur tempor minim est adipisicing elit in eu culpa.",
+    "Lorem Cupidatat velit labore ullamco sunt sint non. Nostrud et dolore laboris labore velit est pariatur dolor nulla. Elit dolore quis mollit aute ex duis veniam mollit elit in consequat minim. Nostrud irure in cupidatat laborum.",
   paragraphTwo:
-    "Lorem Cupidatat velit labore ullamco sunt sint non. Nostrud et dolore laboris labore velit est pariatur dolor nulla. Elit dolore quis mollit aute ex duis veniam mollit elit in consequat minim. Nostrud irure in cupidatat laborum. Excepteur tempor minim est adipisicing elit in eu culpa.",
+    "Lorem Cupidatat velit labore ullamco sunt sint non. Nostrud et dolore laboris labore velit est pariatur dolor nulla. Elit dolore quis mollit aute ex duis veniam mollit elit in consequat minim.",
   buttonLabel: "View Homes",
   image: ImageOne,
   reverse: false,
